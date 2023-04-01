@@ -1,0 +1,15 @@
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\bin\Debug\net6.0\OOTS.exe
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\bin\Debug\net6.0\OOTS.deps.json
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\bin\Debug\net6.0\OOTS.runtimeconfig.json
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\bin\Debug\net6.0\OOTS.dll
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\bin\Debug\net6.0\OOTS.pdb
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.AssemblyInfo.cs
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.dll
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\refint\OOTS.dll
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.pdb
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\OOTS.genruntimeconfig.cache
+D:\Kuliah\Semester 2\Pemrograman Berorientasi Objek\Pertemuan 5\OOTS\obj\Debug\net6.0\ref\OOTS.dll
